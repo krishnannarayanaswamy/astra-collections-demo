@@ -1,4 +1,4 @@
-pip install --quiet --upgrade astrapy
+pip install --quiet --upgrade ragstack-ai
 
 export ASTRA_DB_API_ENDPOINT=""
 
